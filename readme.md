@@ -217,6 +217,8 @@ $ git branch --set-upstream [branch] [remote-branch]
 
 # 合并指定分支到当前分支
 $ git merge [branch]
+# 强制合并到某个分支上去
+git merge dev --allow-unrelated-histories
 
 # 选择一个commit，合并进当前分支
 $ git cherry-pick [commit]
