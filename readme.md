@@ -13,7 +13,6 @@ MIT License
 BSD License
 这个和 MIT 协议类似除了声明协议和来源，其它基本操作都可以使用，flask 用的就是这个协议。
 
-
 GNU License
 你可以私用也可以商用，但是你必须声明来源，并且需要声明原有的协议以及你的代码也必须开源出来，我们很熟悉的 Linux 就是
 采用这种协议，现在知道为什么有那么多免费的 Linux 发行版了就是得益于这个协议。
@@ -213,7 +212,7 @@ $ git checkout [branch-name]
 $ git checkout -
 
 # 建立追踪关系，在现有分支与指定的远程分支之间
-$ git branch --set-upstream [branch] [remote-branch]
+$ git branch --set-upstream-to [branch] [remote-branch]
 
 # 合并指定分支到当前分支
 $ git merge [branch]
