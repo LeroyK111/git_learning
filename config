@@ -1,0 +1,3 @@
+# win32平台记得.ssh文件内添加config文件，允许ssh走代理，root@password可以为空不写，其他必须正确。
+Host github.com
+ProxyCommand "D:\Git\mingw64\bin\connect.exe" -S 127.0.0.1:10900 %h %p root@password
