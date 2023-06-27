@@ -54,7 +54,7 @@ id_rsa私钥一定要保留好！！！
 ### Linux生成sshkeys：
 
 ```
-> ssh-keygen -t ras -C “youremail@domain.com” 
+> ssh-keygen -t rsa -C “youremail@domain.com” 
 ```
 
 ```
@@ -398,8 +398,14 @@ $ git reflog
 
 ```
 远程同步
-# 下载远程仓库的所有变动
+# 下载远程仓库的所有变动，默认主分支master
 $ git fetch [remote]
+
+# 拉取远程分支
+$ git fetch [remote] [branch]
+
+# 同步远程分支
+$ git switch -t [Local branch] origin/[remote branch]
 
 # 显示所有远程仓库
 $ git remote -v
