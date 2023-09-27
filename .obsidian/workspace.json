@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e18429b7210a1ef4",
@@ -155,5 +155,8 @@
     }
   },
   "active": "26912b2f3685ed7b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "git命令.png",
+    "readme.md"
+  ]
 }
