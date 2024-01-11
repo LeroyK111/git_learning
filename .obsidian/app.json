@@ -1,1 +1,8 @@
-{}
+{
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "readme.assets",
+  "alwaysUpdateLinks": true
+}

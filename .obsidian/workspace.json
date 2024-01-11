@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "gitOps/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,12 +88,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e95fc2be47bc6402",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "gitOps/readme.md"
+              }
+            }
+          },
+          {
             "id": "59c1895470e2c46a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "gitOps/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "gitOps/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,23 +136,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "e95fc2be47bc6402",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "readme.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +155,16 @@
   },
   "active": "26912b2f3685ed7b",
   "lastOpenFiles": [
-    "git命令.png",
-    "readme.md"
+    "readme.assets/Pasted image 20240111203041.png",
+    "readme.assets/Pasted image 20240111202351.png",
+    "readme.assets/Pasted image 20240111202153.png",
+    "readme.assets/Pasted image 20240111201547.png",
+    "readme.assets/Pasted image 20240111201530.png",
+    "github进阶技巧/自动构建.md",
+    "github进阶技巧/前端部署.md",
+    "github进阶技巧/其他.md",
+    "gitOps/readme.md",
+    "readme.md",
+    "git命令.png"
   ]
 }
