@@ -739,10 +739,7 @@ git log --graph --oneline --all
 它是项目结构的一览视图，对于理解复杂的分支设置特别有用。
 
 
-
-
-
-
-
-
-
+#### 大文件上下传
+```sh
+git lfs install
+```
